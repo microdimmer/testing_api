@@ -1,0 +1,2 @@
+INSERT INTO courses(id, name) VALUES (1, 'Промышленная безопасность');
+INSERT INTO course_expirings(id, expiring, link, passing, course_id) VALUES (1, '2030-05-25 01:00:00', 'e8712100-600b-4a85-b4c3-87d33d2171ef', 0,  1);
